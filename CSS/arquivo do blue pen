@@ -1,0 +1,25 @@
+
+
+body {
+  display: flex;
+  flex-direction: column;   /* coloca h1 e h2 em coluna */
+  justify-content: center;  /* centraliza verticalmente */
+  align-items: center;      /* centraliza horizontalmente */
+  height: 120vh;            /* ocupa toda a altura da tela */
+}
+
+    body{
+
+    background-color: darkblue;
+    color: white;
+}
+title{
+    color: white;
+}
+ h1{
+    color: white;
+ }
+  
+ p{
+    color:white;
+ }
