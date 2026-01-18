@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CANETA AZUL</title>
+    <link rel=" stylesheet" href="css/arquivo.css">
+</head>
+
+   <h1> Seja bem vindo ao Mundo do Caneta Azul</h1>
+   <h2> Aqui você nunca se sentirá sozinho</h2>
+   <p> Manoel Gomes nasceu no dia 2 de dezembro de 1969 é tem 56 anos de idade</p>
+   <p> De origem humilde ele nasceu na cidade de Balsas no Maranhão</p>
+   <img src="https://www.movimentocountry.com/wp-content/uploads/2025/09/manoel-gomes-01.webp""/>
+   
+<body>
+    
+</body>
+</html>
